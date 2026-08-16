@@ -1,0 +1,1 @@
+pip install imagehash annotated-types wordcloud typeguard pydantic phik numba htmlmin dacite ydata-profiling pandas-profiling
